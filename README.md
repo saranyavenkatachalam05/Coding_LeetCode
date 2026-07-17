@@ -34,5 +34,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1211-queries-quality-and-percentage](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/1211-queries-quality-and-percentage) |
 | [1934-confirmation-rate](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
