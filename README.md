@@ -26,14 +26,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0002-add-two-numbers) |
+| [0342-power-of-four](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0342-power-of-four](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0342-power-of-four) |
 ## Database
 |  |
 | ------- |
 | [1211-queries-quality-and-percentage](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/1211-queries-quality-and-percentage) |
 | [1934-confirmation-rate](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/1934-confirmation-rate) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
