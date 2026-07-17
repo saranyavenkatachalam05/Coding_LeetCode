@@ -42,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0342-power-of-four) |
+## Array
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0414-third-maximum-number) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
