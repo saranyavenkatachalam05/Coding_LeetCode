@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0070-climbing-stairs) |
 | [0342-power-of-four](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0414-third-maximum-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
