@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0141-linked-list-cycle) |
+| [0567-permutation-in-string](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0567-permutation-in-string) |
 ## Linked List
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0141-linked-list-cycle) |
+| [0567-permutation-in-string](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
 | ------- |
@@ -68,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## String
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
