@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0414-third-maximum-number](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0414-third-maximum-number) |
@@ -73,9 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0014-longest-common-prefix) |
 | [0567-permutation-in-string](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0567-permutation-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
