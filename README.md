@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1193-monthly-transactions-i](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/1211-queries-quality-and-percentage) |
 | [1321-restaurant-growth](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/1321-restaurant-growth) |
