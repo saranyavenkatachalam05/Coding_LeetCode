@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1211-queries-quality-and-percentage](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/1211-queries-quality-and-percentage) |
 | [1321-restaurant-growth](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/1321-restaurant-growth) |
 | [1934-confirmation-rate](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/1934-confirmation-rate) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Bit Manipulation
 |  |
 | ------- |
