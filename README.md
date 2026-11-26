@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0141-linked-list-cycle) |
 | [0567-permutation-in-string](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0567-permutation-in-string) |
 ## Linked List
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0014-longest-common-prefix) |
 | [0119-pascals-triangle-ii](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
