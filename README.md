@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0141-linked-list-cycle) |
+| [0283-move-zeroes](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0228-summary-ranges](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0228-summary-ranges) |
+| [0283-move-zeroes](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/saranyavenkatachalam05/Coding_LeetCode/tree/master/0414-third-maximum-number) |
 ## Sorting
 |  |
